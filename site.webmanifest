@@ -1,7 +1,7 @@
 {
 	"name": "skletiny.cz",
 	"short_name": "SK Letiny",
-	"description": "Stránky fotbalového klubu Letiny",
+	"description": "Oficiální stránky sportovního klubu Letiny | Fotbal je naše radost",
 	"start_url": "/index.html",
 	"display": "standalone",
 	"background_color": "#ffffff",
